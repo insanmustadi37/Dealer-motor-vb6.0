@@ -1,0 +1,54 @@
+Line 15: Class ACTIVESKINLibCtl.Skin of control Skin1 was not a loaded control class.
+Line 106: Class MSAdodcLib.Adodc of control ADO was not a loaded control class.
+Line 153: Class MSDataGridLib.DataGrid of control DG was not a loaded control class.
+Line 254: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel1 was not a loaded control class.
+Line 262: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel2 was not a loaded control class.
+Line 270: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel3 was not a loaded control class.
+Line 278: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel4 was not a loaded control class.
+Line 17: The property name OleObjectBlob in Skin1 is invalid.
+Line 112: The property name _ExtentX in ADO is invalid.
+Line 113: The property name _ExtentY in ADO is invalid.
+Line 114: The property name ConnectMode in ADO is invalid.
+Line 115: The property name CursorLocation in ADO is invalid.
+Line 116: The property name IsolationLevel in ADO is invalid.
+Line 117: The property name ConnectionTimeout in ADO is invalid.
+Line 118: The property name CommandTimeout in ADO is invalid.
+Line 119: The property name CursorType in ADO is invalid.
+Line 120: The property name LockType in ADO is invalid.
+Line 121: The property name CommandType in ADO is invalid.
+Line 122: The property name CursorOptions in ADO is invalid.
+Line 123: The property name CacheSize in ADO is invalid.
+Line 124: The property name MaxRecords in ADO is invalid.
+Line 125: The property name BOFAction in ADO is invalid.
+Line 126: The property name EOFAction in ADO is invalid.
+Line 127: The property name ConnectStringType in ADO is invalid.
+Line 131: The property name Orientation in ADO is invalid.
+Line 133: The property name Connect in ADO is invalid.
+Line 134: The property name OLEDBString in ADO is invalid.
+Line 135: The property name OLEDBFile in ADO is invalid.
+Line 136: The property name DataSourceName in ADO is invalid.
+Line 137: The property name OtherAttributes in ADO is invalid.
+Line 138: The property name UserName in ADO is invalid.
+Line 139: The property name Password in ADO is invalid.
+Line 140: The property name RecordSource in ADO is invalid.
+Line 141: The property name Caption in ADO is invalid.
+Line 151: The property name _Version in ADO is invalid.
+Line 159: The property name _ExtentX in DG is invalid.
+Line 160: The property name _ExtentY in DG is invalid.
+Line 161: The property name _Version in DG is invalid.
+Line 162: The property name AllowUpdate in DG is invalid.
+Line 163: The property name HeadLines in DG is invalid.
+Line 164: The property name RowHeight in DG is invalid.
+Line 165: The property name FormatLocked in DG is invalid.
+Line 174: The property name HeadFont in DG is invalid.
+Line 184: The property name ColumnCount in DG is invalid.
+Line 197: The property name Column00 in DG is invalid.
+Line 210: The property name Column01 in DG is invalid.
+Line 223: The property name Column02 in DG is invalid.
+Line 236: The property name Column03 in DG is invalid.
+Line 237: The property name SplitCount in DG is invalid.
+Line 252: The property name Split0 in DG is invalid.
+Line 257: The property name OleObjectBlob in SkinLabel1 is invalid.
+Line 265: The property name OleObjectBlob in SkinLabel2 is invalid.
+Line 273: The property name OleObjectBlob in SkinLabel3 is invalid.
+Line 281: The property name OleObjectBlob in SkinLabel4 is invalid.
